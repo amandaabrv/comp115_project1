@@ -33,7 +33,3 @@ For speed, the program uses `screen.tracer(0)`, so the picture appears almost in
 3. Run the program
 4. A window will open showing the night sky with moon, mountains and trees.
 5. Click anywhere in the window to close it.
-
-## License
-
-This project is open-source and free to use for educational purposes.
