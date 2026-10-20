@@ -31,7 +31,7 @@ For speed, the program uses `screen.tracer(0)`, so the picture appears almost in
 1. Clone or download this repository.
 2. Open the project file project1_artistic_nightsky_code.py in your Python IDE or text editor.
 3. Run the program
-4. 4. A window will open showing the night sky with moon, mountains and trees.
+4. A window will open showing the night sky with moon, mountains and trees.
 5. Click anywhere in the window to close it.
 
 ## License
