@@ -1,4 +1,4 @@
-# Night Sky Landscape with Python Turtle
+# Drawing of Night Sky Landscape with Python Turtle
 ## Description
 
 This project creates a simple night-sky scene using Python's built-in `turtle` graphics library. A moon and a field of randomly placed stars light up a midnight-blue sky above a mountain range with snow-capped peaks and a row of pine trees in the foreground.
